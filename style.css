@@ -1,0 +1,73 @@
+p{
+    background-size: 3px ;
+    background-color: rgb(255, 252, 252);
+}
+
+.btn{
+    background-color: rgb(244, 249, 253);
+    margin: 2px;
+    padding: 16px;
+    border-radius: 12px;
+    width: 4px;
+    height: 4px;
+    text-align: center;
+}
+.equal{
+    background-color: rgb(36, 177, 23);
+    margin: 3px;
+    padding: 18px;
+    border-radius: 12px;
+    width: 4px;
+    height: 4px;
+    color: aliceblue;
+    text-align: center;
+   
+}
+.btns{
+    background-color: rgb(100, 98, 98);
+    margin: 20px;
+     padding: 20px ;
+     border-radius: 9px;
+     width: 200px;
+     height: 200px;
+    
+     /* box-shadow: 6px 6px 8px red; */
+}
+.clear{
+    background-color: rgb(153, 17, 17);
+    margin: 3px;
+    padding: 18px;
+    border-radius: 12px;
+    width: 4px;
+    height: 4px;
+    color: aliceblue;
+    text-align: center;
+}
+.display{
+    background-color: rgb(104, 101, 101);
+    width: 195px;
+     height: 48px;
+     padding: 24px;
+     margin: 20px;
+     border-radius: 15px;
+     color: rgb(155, 245, 161);
+}
+   
+
+.inputs{
+    background-color: rgb(104, 101, 101); 
+    text-align: center;
+
+}
+.result{
+    background-color:  rgb(104, 101, 101);
+    text-align: center;
+}
+#app{
+   margin: 50px;
+  padding: 10px;
+    background-color: rgb(26, 25, 25);
+    height: 430px;
+     width: 280px;
+     border-radius: 30px;
+}
